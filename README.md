@@ -47,7 +47,7 @@ Model kullanılarak test veri seti üzerinde fiyat tahminleri yapılmış ve ger
 
 ## Katkıda Bulunma
 
-Katkıda bulunmak için lütfen bir Issue açın veya Pull Request gönderin. Her türlü katkı ve öneriye açığız.
+Katkıda bulunmak için lütfen bir Issue açın veya Pull Request gönderin. Her türlü katkı ve öneriye açığım.
 
 ## Lisans
 
