@@ -37,7 +37,7 @@ Model kullanılarak test veri seti üzerinde fiyat tahminleri yapılmış ve ger
 
 1. Proje klasörünü klonlayın:
     ```bash
-    git clone https://github.com/sizin-kullanici-adi/LSTM-STOCK-PRICE-PREDICTION.git
+    git clone https://github.com/muharremosmantopakkaya/LSTM-STOCK-PRICE-PREDICTION.git
     ```
 2. Gerekli kütüphaneleri yükleyin:
     ```bash
