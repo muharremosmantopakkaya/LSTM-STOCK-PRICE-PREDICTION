@@ -44,8 +44,3 @@ Model kullanılarak test veri seti üzerinde fiyat tahminleri yapılmış ve ger
     pip install -r requirements.txt
     ```
 3. Projeyi çalıştırın ve sonuçları gözlemleyin.
-
-
-## Lisans
-
-Bu proje [MIT lisansı](LICENSE) ile lisanslanmıştır.
